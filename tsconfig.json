@@ -11,11 +11,9 @@
   "include": [
     "**/*.ts",
     "**/*.tsx",
-<<<<<<< HEAD
     ".expo/types/**/*.ts",
-    "expo-env.d.ts"
-=======
+    "expo-env.d.ts",
     "app/index"
->>>>>>> 5d8118a (inital commit)
+
   ]
 }
